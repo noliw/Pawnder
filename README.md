@@ -57,17 +57,11 @@ GIF created with **EZGif.com**
 - [ScreenToGif](https://www.screentogif.com/) for Windows
 - [peek](https://github.com/phw/peek) for Linux. -->
 
-## Original App Layout (Optional Stretch Feature)
-
-Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature:
-
-It is for an app that **brief description**.
-
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Notes
 
-Here's a place for any other notes on the app, its creation process, or what you learned this unit!
+I enjoyed working on this project and learned a lot about using ConstraintLayouts to create responsive layouts. One challenge I faced was figuring out how to create custom shape drawables for the buttons. I was able to find a helpful tutorial online that walked me through the process.
+
 
 ## License
 
