@@ -60,7 +60,7 @@ GIF created with **EZGif.com**
 
 ## Notes
 
-I enjoyed working on this project and learned a lot about using ConstraintLayouts to create responsive layouts. One challenge I faced was figuring out how to create custom shape drawables for the buttons. I was able to find a helpful tutorial online that walked me through the process.
+I enjoyed working on this project and learned a lot about using ConstraintLayouts to create responsive layouts. One challenge I faced was figuring out how to create custom shape drawables for the buttons. After many hours I was able to finish thanks to alot of googling.
 
 
 ## License
